@@ -8,8 +8,6 @@ resources:
 - trino-db-pvc.yaml
 - trino-db-dc.yaml
 - trino-db-service.yaml
-- hive-metastore-dc.yaml
-- hive-metastore-service.yaml
 - hive-metastore-entrypoint.yaml
 - hive-db-secret.yaml
 - hadoop-config.yaml
